@@ -7,4 +7,8 @@ const FizzBuzz = (num) => {
   return num
 }
 
+const foo = () => {
+  return 'oi'
+}
+
 export default FizzBuzz
